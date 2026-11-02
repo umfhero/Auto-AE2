@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "connected=false": {
+      "model": "autoae2:block/automation_planner"
+    },
+    "connected=true": {
+      "model": "autoae2:block/automation_planner_connected"
+    }
+  }
+}

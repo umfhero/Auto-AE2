@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [" FC", " I ", "I  "],
+  "key": {
+    "I": "#c:ingots/iron",
+    "F": "ae2:fluix_crystal",
+    "C": "ae2:certus_quartz_crystal"
+  },
+  "result": {"id": "autoae2:placement_wrench", "count": 1}
+}

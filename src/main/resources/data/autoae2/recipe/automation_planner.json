@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["IQI", "FCF", "ILI"],
+  "key": {
+    "I": "#c:ingots/iron",
+    "Q": "ae2:quartz_glass",
+    "F": "ae2:fluix_crystal",
+    "C": "minecraft:crafting_table",
+    "L": "ae2:logic_processor"
+  },
+  "result": {"id": "autoae2:automation_planner", "count": 1}
+}
