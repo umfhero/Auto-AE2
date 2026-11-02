@@ -68,4 +68,4 @@ The project targets **Minecraft 26.1.2**, **NeoForge 26.1.2.109**, **Applied Ene
 
 On Windows, use `gradlew.bat build`. The jar is written to `build/libs`. JEI integration is optional and is not bundled with the mod. See [SETUP.md](SETUP.md) for more detail and [AGENTS.md](AGENTS.md) for the project architecture and testing notes.
 
-The project currently declares **All Rights Reserved**. NeoForged's template files retain their separate notice in [TEMPLATE_LICENSE.txt](TEMPLATE_LICENSE.txt).
+Auto AE2 is licensed under the [MIT licence](LICENSE). NeoForged's template files retain their separate notice in [TEMPLATE_LICENSE.txt](TEMPLATE_LICENSE.txt).

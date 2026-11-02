@@ -8,7 +8,7 @@ Keep this file updated when architecture, functionality, dependencies, testing s
 
 The development world is user-owned. Use the IntelliJ **Client** configuration and the existing `Auto AE2 Test` world for in-world checks. Do not create another world as a substitute. Save and back up the world before modifying it, and do not interrupt the user's active game. `run/`, `run-validation/`, `.backups/`, IDE configuration, Gradle caches and build output must not be published. JEI, Jade, Mouse Tweaks and MezzConfig in `run/mods` are local development aids and are not bundled.
 
-Build and run the unit tests with JDK 25 and the included Gradle wrapper: `./gradlew build` on Linux or `gradlew.bat build` on Windows. Test an IntelliJ Client launch when changing runtime integration. The GitHub Actions workflow runs the wrapper with Temurin 25. The produced jar is under `build/libs`. The mod currently declares All Rights Reserved; do not change the licence without the owner's instruction.
+Build and run the unit tests with JDK 25 and the included Gradle wrapper: `./gradlew build` on Linux or `gradlew.bat build` on Windows. Test an IntelliJ Client launch when changing runtime integration. The GitHub Actions workflow runs the wrapper with Temurin 25. The produced jar is under `build/libs`. The owner selected the MIT licence. Keep `LICENSE`, `gradle.properties` and public release metadata consistent; NeoForged template files retain their separate notice in `TEMPLATE_LICENSE.txt`.
 
 ## Player workflow
 
