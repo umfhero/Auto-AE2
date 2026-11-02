@@ -1,6 +1,6 @@
 <div align="center">
 
-# Auto AE2
+<img src="docs/branding/auto-ae2-transparent.png" alt="Auto AE2" width="360">
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-26.1.2-4c9b4a?style=flat-square)
 ![NeoForge](https://img.shields.io/badge/NeoForge-26.1.2.109-9c5de0?style=flat-square)
@@ -11,6 +11,8 @@
 ![Status](https://img.shields.io/badge/Status-work%20in%20progress-e9b44c?style=flat-square)
 
 An in-game builder for Applied Energistics 2 structures and automation setups.
+
+[CurseForge](https://www.curseforge.com/minecraft/mc-mods/auto-ae2) (awaiting moderation)
 
 </div>
 
